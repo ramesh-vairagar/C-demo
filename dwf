@@ -1,0 +1,30 @@
+[33mcommit bf3d3dd4a43a6acc0e83dab1da3bdde47b8d6bd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 79a07c9 9b45e79
+Author: Ramesh Vairagar <ramesh.vairagar11@gmail.com>
+Date:   Mon Aug 28 11:08:30 2023 +0530
+
+    Merge branch 'master' of https://github.com/vairagarpatil143/C-demo
+
+[33mcommit 79a07c987c44d9acd0915b5683d659e29c29744a[m
+Author: Ramesh Vairagar <ramesh.vairagar11@gmail.com>
+Date:   Mon Aug 28 11:05:28 2023 +0530
+
+    changes
+
+[33mcommit 7ab425fa0d2cab1b0a2e13f1bc47a0e70f751e44[m
+Author: Ramesh Vairagar <ramesh.vairagar11@gmail.com>
+Date:   Mon Aug 28 11:01:23 2023 +0530
+
+    new program
+
+[33mcommit 9b45e79af170e21416342e70753c6970e8edada1[m
+Author: Ramesh Vairagar <90670924+vairagarpatil143@users.noreply.github.com>
+Date:   Sat Aug 26 17:37:11 2023 +0530
+
+    Create README.md
+
+[33mcommit 8f01d08257daadde225ff09fc9fdf034ec6dc354[m
+Author: Ramesh Vairagar <ramesh.vairagar11@gmail.com>
+Date:   Sat Aug 26 17:33:00 2023 +0530
+
+    initial commit
