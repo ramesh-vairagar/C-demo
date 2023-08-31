@@ -1,0 +1,5 @@
+#ignore compiled files
+*.exe
+#ignore log files
+*.log
+#ignore specific files
