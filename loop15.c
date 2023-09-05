@@ -17,6 +17,6 @@ int main()
 	{
 	printf("perfect number is %d\n",j);
 	}
-	sum=0;
+	sum=1;
 	}
 }
