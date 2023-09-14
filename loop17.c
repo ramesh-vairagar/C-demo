@@ -20,6 +20,7 @@ int main()
 	}
 	count=0;
 	}
-printf("sumof prime numbers btween is=%d",sum);
+	printf("sumof prime numbers btween is=%d",sum);
 	return 0;
 }
+	
